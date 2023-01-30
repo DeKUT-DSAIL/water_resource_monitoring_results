@@ -1,0 +1,3 @@
+(1) https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/
+(2) https://towardsdatascience.com/6-methods-for-multi-step-forecasting-823cbde4127a
+(3) https://pangkh98.medium.com/multi-step-multivariate-time-series-forecasting-using-lstm-92c6d22cd9c2

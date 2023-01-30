@@ -1,0 +1,11 @@
+function shareTwitter(url) {
+	//window.open('https://www.linkedin.com/shareArticle?mini=true&url=' + escape(url) + '&title=' + escape(title) + '&text=' + escape(text) + '&target=new', "Twitter", "height=500,width=300");
+	window.open('https://twitter.com/intent/tweet?url=' + escape(url) + '&original_referer=', "Twitter", "height=600,width=450");
+	return false;
+}
+
+function shareLinkedIn(url) {
+	//window.open('https://www.linkedin.com/shareArticle?mini=true&url=' + escape(url) + '&title=' + escape(title) + '&summary=' + escape(text) + '&source=LorixOne', "LinkedIn", "height=500,width=300");
+	window.open('https://www.linkedin.com/shareArticle?mini=true&url=' + escape(url) + '&source=LorixOne', "LinkedIn", "height=600,width=450");
+	return false;
+}

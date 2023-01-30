@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name sss)(type KiCad)(uri D:/sss)(options "")(descr ""))
+  (lib (name conn)(type KiCad)(uri D:/conn)(options "")(descr ""))
+  (lib (name MT3608)(type KiCad)(uri D:/DOCUMENTS/KiCad/stream/MT3608.pretty)(options "")(descr ""))
+  (lib (name MDOT_TRIAL_BAT_CHARGER)(type KiCad)(uri D:/DOCUMENTS/KiCad/bat_charger/MDOT_TRIAL_BAT_CHARGER.pretty)(options "")(descr ""))
+)

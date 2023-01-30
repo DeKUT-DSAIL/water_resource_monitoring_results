@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "fileName": "20191125T142323Z.meta",
+    "size": 2778
+  },
+  "limited": false,
+  "files": [
+    {
+      "database": "ol_pejeta_mdot_range_test",
+      "policy": "autogen",
+      "shardID": 202,
+      "fileName": "20191125T142323Z.s202.tar.gz",
+      "size": 529920,
+      "lastModified": 0
+    },
+    {
+      "database": "ol_pejeta_mdot_range_test",
+      "policy": "autogen",
+      "shardID": 211,
+      "fileName": "20191125T142323Z.s211.tar.gz",
+      "size": 51200,
+      "lastModified": 0
+    },
+    {
+      "database": "ol_pejeta_mdot_range_test",
+      "policy": "autogen",
+      "shardID": 241,
+      "fileName": "20191125T142323Z.s241.tar.gz",
+      "size": 4096,
+      "lastModified": 0
+    },
+    {
+      "database": "ol_pejeta_mdot_range_test",
+      "policy": "autogen",
+      "shardID": 244,
+      "fileName": "20191125T142323Z.s244.tar.gz",
+      "size": 11264,
+      "lastModified": 0
+    },
+    {
+      "database": "ol_pejeta_mdot_range_test",
+      "policy": "autogen",
+      "shardID": 265,
+      "fileName": "20191125T142323Z.s265.tar.gz",
+      "size": 4096,
+      "lastModified": 0
+    }
+  ]
+}
